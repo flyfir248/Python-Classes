@@ -38,3 +38,5 @@ Animals can move.
 Mammals are warm-blooded.
 Cats have fur.
 ````
+
+This example shows how the super() function can be used in a multi-level class hierarchy to call the method of the parent class and maintain the order of inheritance.
